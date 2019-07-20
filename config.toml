@@ -1,0 +1,91 @@
+baseurl = "https://thimotti.github.io"
+title = "David Thimotti"
+theme = "Alika_Theme"
+languagecode = "en"
+DefaultContentLanguage = "en"
+paginate = 20
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsUseClasses = true
+disqusShortname = "thimotti"
+googleAnalytics = "UA-144204748-1"
+[params]
+    author = "David Thimotti"
+    description = "David Thimotti's personal website"
+    keywords = "Network Analyst,Cybersecurity Enthusiast,Python and Ansible Student"
+    info = "NETWORK ANALYST"
+    avatarurl = "images/avatar.jpg"
+    footercontent = "Made with ♥ by Alika"
+    dateformat = "Monday, January 2, 2006"
+    hideCredits = false
+    hideCopyright = false
+    snsShare = true
+    thumbnail = "images/tn.png"
+    custom_css = []
+    itemscentered = true
+    rtl = false
+    langseparator = "|"
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/thimotti/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-twitter"
+    weight = 2
+    url = "https://www.linkedin.com/in/thimotti/"
+[languages]
+    [languages.en]
+        languagecode = "en"
+        languagename = "English"
+        title = "David Thimotti"
+        [languages.en.params]
+            author = "David Thimotti"
+            info = "NETWORK ANALYST"
+            description = "David Thimotti's personal website"
+            keywords = "Network Analyst,Cybersecurity Enthusiast,Python and Ansible Student"
+        [languages.en.menu]
+            [[languages.en.menu.main]]
+                name = "About"
+                weight = 1.0
+                url = "about"
+            [[languages.en.menu.main]]
+                name = "Blog"
+                weight = 2.0
+                url = "posts"
+            [[languages.en.menu.main]]
+                name = "Projects"
+                weight = 3
+                url = "projects"
+            [[languages.en.menu.main]]
+                name = "Contact"
+                weight = 5
+                url = "contact"
+    [languages.pt]
+        languagecode = "pt"
+        languagename = "Português"
+        title = "David Thimotti"
+        [languages.pt.params]
+            author = "David Thimotti"
+            description = "Website pessoal de David Thimotti"
+            keywords = "Analista de Redes, Entusiasta de Cibersegurança, Estudante Python e Ansible"
+            info = "ANALISTA DE REDES"
+        [languages.pt.menu]
+            [[languages.pt.menu.main]]
+                name = "Sobre"
+                weight = 1.0
+                url = "pt/about"
+            [[languages.pt.menu.main]]
+                name = "Blog"
+                weight = 2.0
+                url = "pt/posts"
+            [[languages.pt.menu.main]]
+                name = "Projetos"
+                weight = 3
+                url = "pt/projects"
+            [[languages.pt.menu.main]]
+                name = "Contato"
+                weight = 5
+                url = "pt/contact"
