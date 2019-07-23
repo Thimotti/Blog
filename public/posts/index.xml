@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on David Thimotti</title>
+    <link>https://thimotti.github.io/posts/</link>
+    <description>Recent content in Posts on David Thimotti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Jul 2019 11:09:10 -0300</lastBuildDate>
+    
+	<atom:link href="https://thimotti.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post	</title>
+      <link>https://thimotti.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 18 Jul 2019 11:09:10 -0300</pubDate>
+      
+      <guid>https://thimotti.github.io/posts/my-first-post/</guid>
+      <description>WHAT&amp;rsquo;S THE PLAN ??? KISS - Keep It Simple, Stupid.
+HUGO HUGO framework for building websites.
+Hugo and the General Data Protection Regulation (GDPR)
+Disqus Disqus
+GitHub GitHub
+Thanks for reading!</description>
+    </item>
+    
+  </channel>
+</rss>

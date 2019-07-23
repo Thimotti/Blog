@@ -5,18 +5,18 @@ set -e
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
-git add .
+#git add .
 
 # Clear public folder
-rm -rf public
+#rm -rf public
 
-git rm -r public
+#git rm -r public
 
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Add submodule
-git submodule add -b master git@github.com:Thimotti/thimotti.github.io.git public
+#git submodule add -b master git@github.com:Thimotti/thimotti.github.io.git public
 
 # Go To Public folder
 cd public

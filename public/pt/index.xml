@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Thimotti</title>
+    <link>https://thimotti.github.io/pt/</link>
+    <description>Recent content on David Thimotti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <lastBuildDate>Thu, 18 Jul 2019 11:09:10 -0300</lastBuildDate>
+    
+	<atom:link href="https://thimotti.github.io/pt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Primeiro Post</title>
+      <link>https://thimotti.github.io/pt/posts/my-first-post/</link>
+      <pubDate>Thu, 18 Jul 2019 11:09:10 -0300</pubDate>
+      
+      <guid>https://thimotti.github.io/pt/posts/my-first-post/</guid>
+      <description>Qual o plano ??? A ideia por trás deste blog é ter um local para documentar meus estudos e, ao mesmo tempo, colocar em prática o que tenho estudado. Irei utilizar o princípio KISS neste projeto, valorizando a simplicidade do projeto e descartando toda e qualquer complexidade desnecessária. KISS é o acrônimo em inglês de Keep It Simple, Stupid.
+HUGO HUGO é um framework para construção de sites estáticos de código aberto.</description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>https://thimotti.github.io/pt/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thimotti.github.io/pt/contact/</guid>
+      <description>Quer entrar em contato? Tem perguntas? Pergunte-me no Twitter.
+Minhas redes sociais Facebook Instagram</description>
+    </item>
+    
+    <item>
+      <title>Projetos</title>
+      <link>https://thimotti.github.io/pt/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thimotti.github.io/pt/projects/</guid>
+      <description> Website pessoal  Blog Site desenvolvido em Hugo, framework para construnção de websites estáticos, utilizando o tema Coder Portfolio.
+Versão Hugo: v0.55.6-A5D4C82D2/extended linux/amd64
+Licença: MIT
+Repositório: GitHub
+   </description>
+    </item>
+    
+    <item>
+      <title>Sobre Mim</title>
+      <link>https://thimotti.github.io/pt/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thimotti.github.io/pt/about/</guid>
+      <description>Meu nome é David Thimotti e moro em Belo Horizonte, Brasil. Atualmente, estou trabalhando como analista na Alika Soluções. Sou tecnólogo em redes de computadores, com especialização em telecomunicações e redes de computadores pelo Centro Universitário Estácio de Belo Horizonte.
+Estou interessado em engenharia de software em geral: estruturas de dados, algoritmos, protocolos, arquitetura, padrões de design e muito mais. Além disso, trabalho com redes de computadores corporativas. Recentemente, comecei a me envolver mais na comunidade de código aberto.</description>
+    </item>
+    
+  </channel>
+</rss>

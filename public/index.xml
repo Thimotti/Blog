@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Thimotti</title>
+    <link>https://thimotti.github.io/</link>
+    <description>Recent content on David Thimotti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Jul 2019 11:09:10 -0300</lastBuildDate>
+    
+	<atom:link href="https://thimotti.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post	</title>
+      <link>https://thimotti.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 18 Jul 2019 11:09:10 -0300</pubDate>
+      
+      <guid>https://thimotti.github.io/posts/my-first-post/</guid>
+      <description>WHAT&amp;rsquo;S THE PLAN ??? KISS - Keep It Simple, Stupid.
+HUGO HUGO framework for building websites.
+Hugo and the General Data Protection Regulation (GDPR)
+Disqus Disqus
+GitHub GitHub
+Thanks for reading!</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://thimotti.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thimotti.github.io/about/</guid>
+      <description>My name is David Thimotti and I live in Belo Horizonte, Brazil. Currently, I’m working as an analyst at Alika Solutions. I have a technologist’s degree in computer networks and a telecommunications and computer networks specialization at the Centro Universitário Estácio de Belo Horizonte.
+I’m interested in software engineering in general: Data structures, algorithms, protocols, architecture, design patterns and much more. Also, I work with corporate computer networks. Just recently, I started to engage more in the open source community.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://thimotti.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thimotti.github.io/contact/</guid>
+      <description>Want Contact? Have questions? Ask me on Twitter.
+My social networks Facebook Instagram</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://thimotti.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thimotti.github.io/projects/</guid>
+      <description> Personal website  Blog Website developed in Hugo, framework for building static websites, using Coder Portfolio theme.
+Hugo Version: v0.55.6-A5D4C82D2/extended linux/amd64
+License: MIT
+Repository: GitHub
+   </description>
+    </item>
+    
+  </channel>
+</rss>
