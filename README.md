@@ -15,7 +15,7 @@ Os temas se descrevem, respectitivamente, como: *Um tema de blog simples e limpo
 Para uso deste repositório localmente, é necessário ter o [Hugo](https://github.com/gohugoio/hugo) e o [Git](https://git-scm.com/downloads). A documentação completa está disponível em [Hugo Documentation](https://gohugo.io/getting-started/) e [Git-scm Documentation](https://git-scm.com/doc).
 
 **Minhas versões:**
-```
+```bash
 ~$ hugo version
 Hugo Static Site Generator v0.55.6-A5D4C82D2/extended linux/amd64 BuildDate: 2019-05-18T08:08:34Z
 ~$ git version
@@ -27,7 +27,7 @@ git version 2.17.1
 
 Clone este repositório: 
 
-```shell
+```bash
 ~$ git clone https://github.com/Thimotti/Blog.git
 Cloning into 'Blog'...
 ... done.
@@ -36,14 +36,14 @@ Cloning into 'Blog'...
 
 Acesse a pasta `Blog`
 
-```shell
+```bash
 ~$ cd Blog/
 ~/Blog$
 ```
 
 Construa seu site com `hugo serve` e veja o resultado em seu navegador, através do endereço `http://localhost:1313/`.
 
-```shell
+```bash
 ~/Blog$ hugo server themes/Alika_Theme
 
                    | EN | PT  
